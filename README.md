@@ -15,6 +15,24 @@
 - ❌ **Código de baja calidad:** sin herramientas como SonarQube ni revisiones formales.
 - ❌ **Flujo de trabajo ineficiente:** cada desarrollador sube código sin revisión, sin metodología como Git Flow o Trunk-based Development.
 
+
+### M3-R1: Estado actual de TransChile (flujo desorganizado)
+
+gitGraph
+   commit id: "Desarrollador 1 crea archivo local"
+   commit id: "Desarrollador 2 crea archivo local"
+   commit id: "Desarrollador 3 crea archivo local"
+   branch dev1
+   checkout dev1
+   commit id: "Modificaciones locales sin control"
+   branch dev2
+   checkout dev2
+   commit id: "Más cambios sin control"
+   checkout main
+   commit id: "Código unido manualmente por FTP"
+   commit id: "Error en producción"
+   commit id: "Nuevo parche sin pruebas"
+   
 ---
 
 ## ✅ Propuesta Técnica
