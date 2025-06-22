@@ -21,17 +21,17 @@
 gitGraph
    commit id: "Desarrollador 1 crea archivo local"
    commit id: "Desarrollador 2 crea archivo local"
-   commit id: "Desarrollador 3 crea archivo local"
    branch dev1
    checkout dev1
-   commit id: "Modificaciones locales sin control"
+   commit id: "Cambios locales sin control"
    branch dev2
    checkout dev2
-   commit id: "Más cambios sin control"
+   commit id: "Modificaciones sin pruebas"
    checkout main
-   commit id: "Código unido manualmente por FTP"
-   commit id: "Error en producción"
-   commit id: "Nuevo parche sin pruebas"
+   commit id: "Unión manual del código (FTP)"
+   commit id: "Errores en producción"
+   commit id: "Parche rápido sin validación"
+
    
 ---
 
