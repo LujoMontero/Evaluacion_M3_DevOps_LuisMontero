@@ -16,22 +16,9 @@
 - ❌ **Flujo de trabajo ineficiente:** cada desarrollador sube código sin revisión, sin metodología como Git Flow o Trunk-based Development.
 
 
-### M3-R1: Estado actual de TransChile (flujo desorganizado)
+### Estado actual de TransChile (flujo desorganizado)
 
-gitGraph
-   commit id: "Desarrollador 1 crea archivo local"
-   commit id: "Desarrollador 2 crea archivo local"
-   branch dev1
-   checkout dev1
-   commit id: "Cambios locales sin control"
-   branch dev2
-   checkout dev2
-   commit id: "Modificaciones sin pruebas"
-   checkout main
-   commit id: "Unión manual del código (FTP)"
-   commit id: "Errores en producción"
-   commit id: "Parche rápido sin validación"
-
+![Editor _ Mermaid Chart-2025-06-22-231156](https://github.com/user-attachments/assets/b37664c6-4381-43fb-961a-97c0d3d72937)
    
 ---
 
