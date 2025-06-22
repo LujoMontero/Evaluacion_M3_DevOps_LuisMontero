@@ -94,7 +94,8 @@ jobs:
       - name: Analizar calidad con SonarQube
         run: mvn sonar:sonar
       - name: Despliegue (simulado)
-        run: echo "Desplegando a servidor de pruebas..."```
+        run: echo "Desplegando a servidor de pruebas..."
+```
 
 ---
 
