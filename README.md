@@ -49,6 +49,9 @@
 
 ### 2.2 Propuesta: Git + GitHub Flow
 
+![Editor _ Mermaid Chart-2025-06-22-231335](https://github.com/user-attachments/assets/38cf0b92-d70b-4c31-b6d7-1ced017fb96f)
+
+
 Se recomienda implementar **Git con GitHub Flow**, ideal para equipos que hacen entregas frecuentes y necesitan fluidez.
 
 ### 2.3 Justificación
@@ -139,4 +142,19 @@ La empresa **TransChile** debe modernizar su flujo de desarrollo adoptando herra
 - ✅ Herramientas de **prevención de errores y ciberataques**
 
 Esto asegurará un software más **seguro**, **confiable** y **ágil**, mejorando sustancialmente toda la operación logística.
+
+## 📈 Beneficios Esperados
+
+- ✅ **Mayor calidad del código**
+- ✅ **Reducción de errores en entorno productivo**
+- ✅ **Flujo de trabajo colaborativo, trazable y profesional**
+- ✅ **Procesos seguros, auditables y escalables**
+
+---
+
+## ✍️ Autor
+
+**Luis Montero**  
+*Ingeniero en Informática | DevOps Enthusiast*  
+📅 Junio 2025
 
